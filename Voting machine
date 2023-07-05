@@ -2,10 +2,10 @@
 
 #define CANDIDATE_COUNT
 
-#define CANDIDATE1 "Ramesh Murali "
-#define CANDIDATE2 "Piyush kumar"
-#define CANDIDATE3 "Keertana Sanjeev"
-#define CANDIDATE4 "Padma Suresh"
+#define CANDIDATE1 "Jumana "
+#define CANDIDATE2 "Akhila"
+#define CANDIDATE3 "Architha"
+#define CANDIDATE4 "Megha"
 
 int votesCount1=0, votesCount2=0, votesCount3=0, votesCount4=0, spoiledtvotes=0;
 
